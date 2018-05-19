@@ -1,0 +1,11 @@
+常见的报出的错误
+
+Cannot connect... host 错误  port 错误  服务器没有启动
+
+Access denied ...  -user/ -passwd错误
+
+Unknown database .... 数据库名字写错
+
+MySQL syntax Error / unknow ... SQL 语句错误
+
+默认情况root 只能本地连接,不能远程连接, 主机改为 % 
